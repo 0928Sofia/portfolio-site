@@ -1,0 +1,29 @@
+.content-list__item{
+    margin-bottom: 100px;
+    color: black;
+    font-size: xx-large;
+}
+
+img{
+    width: 500px;
+}
+
+.title2{
+    width: 1000px;
+}
+
+p{
+    color: black;
+    font-style: italic;
+    font-size: x-large;
+}
+
+.title-2{
+    color: black;
+}
+
+.title-1{
+    color: navy;
+    align-self: center;
+    font-size: xx-large;
+}

@@ -1,0 +1,33 @@
+img{
+    width: 50px;
+}
+
+.footer{
+    margin-top: auto;
+    padding: 1px 0;
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+}
+
+.footrer__wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 27px;
+}
+
+.social{
+    display: flex;
+    column-gap: 30px;
+    text-align: start;
+}
+
+.copyright{
+    font-size: medium;
+    color: rgb(86, 0, 156);
+    align-items: start;
+}
+
+.copyright p + p{
+    margin-top: 0.5em;
+}
